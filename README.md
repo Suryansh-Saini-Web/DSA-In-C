@@ -9,3 +9,5 @@
 9. 09_complement.c -- Solved LeetCode problem #1009 Complement of Base 10 integer.
 10. 10_prime_num.c -- Learnt how to find whether a number is prime or not.
 11. 11_count_primes.c -- Solved LeetCode problem #204 Count Primes.
+12. 12_factorial.c -- Learnt how to find factorial of a number using recursive and iterative method.
+13. 13_power.c --  Learnt how to calculate power of a number using recursive and iterative method.
