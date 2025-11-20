@@ -7,16 +7,18 @@ struct my_array{
     int *ptr;
 };
 
-void create(struct my_array *marks, int total_size, int used_size){
-    marks->total_size = total_size;
-    marks->used_size = used_size;
-    marks->ptr = (int *) malloc(total_size * sizeof(int));
+void create(struct my_array *marks){
+    printf("Enter the size of array: ");
+    scanf("%d", &marks->total_size);
+    printf("Enter the size you want to utilize now: ");
+    scanf("%d", &marks->used_size);
+    marks->ptr = (int *) malloc(marks->total_size * sizeof(int));
 }
 
 void set(struct my_array *marks){
     for(int i = 0; i < marks->used_size; i++){
         printf("Enter the value for index %d: ", i);
-        scanf("%d", (marks->ptr+i));
+        scanf("%d", marks->ptr+i);
     }
 }
 
@@ -27,13 +29,8 @@ void show(struct my_array *marks){
 }
 
 int main(){
-    int total_size, used_size;
-    printf("Enter the size of array: ");
-    scanf("%d", &total_size);
-    printf("Enter the size you want to utilize now: ");
-    scanf("%d", &used_size);
     struct my_array marks;
-    create(&marks, total_size, used_size);
+    create(&marks);
     set(&marks);
     show(&marks);
     return 0;
