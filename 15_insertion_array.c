@@ -10,7 +10,7 @@ void error(){
 void set(int arr[], int total_size, int *used_size){
     printf("Enter the size of array you want to utilize now: ");
     scanf("%d", used_size);
-    if(total_size < *(used_size) < 0){
+    if(total_size < *(used_size) || *(used_size) < 0){
         error();
     }else{
         for(int i = 0; i < *(used_size); i++){
@@ -33,7 +33,7 @@ void insert(int arr[], int *used_size, int total_size){
     scanf("%d", &index);
     if(total_size == *(used_size)){
         error();
-    }else if(*(used_size) < index < 0 ){
+    }else if(*(used_size) < index || index < 0 ){
         error();
     }else{
         printf("Enter the value which you want to insert: ");
