@@ -13,3 +13,4 @@
 13. 13_power.c --  Learnt how to calculate power of a number using recursive and iterative method.
 14. 14_create_array.c -- Learnt how to create my own array as an abstract data type using dynamic memory allocation.
 15. 15_insertion_array.c -- Learnt how to insert an element in an array.
+16. 16_deletion_array.c -- Learnt how to delete an element from an array.
