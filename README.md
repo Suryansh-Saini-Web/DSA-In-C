@@ -11,3 +11,4 @@
 11. 11_count_primes.c -- Solved LeetCode problem #204 Count Primes.
 12. 12_factorial.c -- Learnt how to find factorial of a number using recursive and iterative method.
 13. 13_power.c --  Learnt how to calculate power of a number using recursive and iterative method.
+14. 14_create_array.c -- Learnt how to create my own array as an abstract data type using dynamic memory allocation.
