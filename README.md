@@ -14,3 +14,5 @@
 14. 14_create_array.c -- Learnt how to create my own array as an abstract data type using dynamic memory allocation.
 15. 15_insertion_array.c -- Learnt how to insert an element in an array.
 16. 16_deletion_array.c -- Learnt how to delete an element from an array.
+17. 17_linear_search_array.c -- Learnt how to do linear search on an array.
+18. 18_binary_search_array.c -- Learnt how to do binary search on an array.
