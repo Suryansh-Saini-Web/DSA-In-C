@@ -12,7 +12,7 @@ void error(){
 void set(int arr[], int total_size, int *used_size){
     printf("Enter the size you want to utilize now: ");
     scanf("%d", used_size);
-    if(*(used_size) > total_size || *(used_size) < 0){
+    if(*(used_size) > total_size || *(used_size) <= 0){
         error();
     }
     for(int i = 0; i < *(used_size); i++){
