@@ -16,3 +16,6 @@
 16. 16_deletion_array.c -- Learnt how to delete an element from an array.
 17. 17_linear_search_array.c -- Learnt how to do linear search on an array.
 18. 18_binary_search_array.c -- Learnt how to do binary search on an array.
+19. 19_min_max_array.c -- Learnt how to find the minimum and maximum element in an array.
+20. 20_reverse_array.c -- Learnt how to reverse an array with o(1) space complexity.
+21. 21_array_lc_1.c -- Solved leet code problem no. 136 - (single number). 
