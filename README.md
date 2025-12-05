@@ -18,4 +18,6 @@
 18. 18_binary_search_array.c -- Learnt how to do binary search on an array.
 19. 19_min_max_array.c -- Learnt how to find the minimum and maximum element in an array.
 20. 20_reverse_array.c -- Learnt how to reverse an array with o(1) space complexity.
-21. 21_array_lc_1.c -- Solved leet code problem no. 136 - (single number). 
+21. 21_array_lc_1.c -- Solved leet code problem no. 136 - (single number).
+22. 22_hash_table.c -- Learnt about how to create hash tables in C language from scratch and handle collisions using linked list and linear probing.
+23. 23_array_lc_2.c -- Solved leet code problem no. 1 - (Two Sum).
