@@ -22,3 +22,4 @@
 22. 22_hash_table.c -- Learnt about how to create hash tables in C language from scratch and handle collisions using linked list and linear probing.
 23. 23_array_lc_2.c -- Solved leet code problem no. 1 - (Two Sum).
 24. 24_array_lc_3.c -- Solved Leet Code problem number 75 - (Sort Colors).
+25. 25_array_lc_4.c -- Solved Leet Code problem number 349 - (Intersection of two arrays).
