@@ -23,3 +23,7 @@
 23. 23_array_lc_2.c -- Solved leet code problem no. 1 - (Two Sum).
 24. 24_array_lc_3.c -- Solved Leet Code problem number 75 - (Sort Colors).
 25. 25_array_lc_4.c -- Solved Leet Code problem number 349 - (Intersection of two arrays).
+26. 26_array_lc_5.c -- Solved Leet Code problem 88 - (Merge Sorted Array).
+27. 27_array_lc_6.c -- Solved Leet Code problem 283 - (Move Zeroes).
+28. 28_array_lc_7.c -- Solved Leet Code problem 189 - (Rotate Array).
+
