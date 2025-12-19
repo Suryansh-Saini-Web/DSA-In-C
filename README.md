@@ -26,4 +26,7 @@
 26. 26_array_lc_5.c -- Solved Leet Code problem 88 - (Merge Sorted Array).
 27. 27_array_lc_6.c -- Solved Leet Code problem 283 - (Move Zeroes).
 28. 28_array_lc_7.c -- Solved Leet Code problem 189 - (Rotate Array).
+29. 29_array_lc_8.c -- Solved Leet Code problem - (Array sorted and rotated).
+30. 30_create_linkedlist.c -- Learnt how to create a linkedlist, how to insert value at the beginning of the linkedlist, how to insert value at the end of the linkedlist, how to print a linkedlist.
+31. 31_traverse_linkedlist.c -- Learnt how to traverse a linkedlist, how to find value in the linkedlist using index, how to find index of a value in the linkedlist.
 
