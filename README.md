@@ -29,4 +29,10 @@
 29. 29_array_lc_8.c -- Solved Leet Code problem - (Array sorted and rotated).
 30. 30_create_linkedlist.c -- Learnt how to create a linkedlist, how to insert value at the beginning of the linkedlist, how to insert value at the end of the linkedlist, how to print a linkedlist.
 31. 31_traverse_linkedlist.c -- Learnt how to traverse a linkedlist, how to find value in the linkedlist using index, how to find index of a value in the linkedlist.
-
+32. 32_index_linkedlist.c -- Learnt how to insert value at a particular index in the linkedlist.
+33. 33_reverse_linkedlist.c -- Learnt how to reverse a linked list.
+34. 34_delete_start.c -- Learnt how to delete node from beginning of the linkedlist.
+35. 35_delete_end.c -- Learnt how to delete node from end of the linkedlist.
+36. 36_nth_node.c -- Learnt how to delete nth node from end of the linkedlist.
+37. 37_recursion_linkedlist.c -- Learnt how to traverse linked list using recursion.
+38. 38_reverse_recursion.c -- Learnt how to reverse linkedlist using recursion.
