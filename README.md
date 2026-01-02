@@ -36,3 +36,5 @@
 36. 36_nth_node.c -- Learnt how to delete nth node from end of the linkedlist.
 37. 37_recursion_linkedlist.c -- Learnt how to traverse linked list using recursion.
 38. 38_reverse_recursion.c -- Learnt how to reverse linkedlist using recursion.
+39. 39_linkedlist_lc1.c -- Solved leet code problem 24 - Swap Nodes in pairs.
+40. 40_linkedlist_lc2.c -- Solved leet code problem - Reverse List in K Groups.
