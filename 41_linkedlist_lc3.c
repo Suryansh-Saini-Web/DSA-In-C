@@ -33,7 +33,7 @@ void cyclic(node *head){
     node *fast = head;
     node *slow = head;
     while(1){
-        if(fast == NULL || slow == NULL || fast->next == NULL){
+        if(fast == NULL || fast->next == NULL){
             printf("List is not cyclic.\n");
             return;
         }
