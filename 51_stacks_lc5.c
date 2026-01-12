@@ -37,7 +37,7 @@ void insert(int stack[], int *stkptr, int num){
 }
 
 void reverse(int stack[], int *stkptr){
-    if(*stkptr == 0 || *stkptr == 1){
+    if(*stkptr <= 1){
         return;
     }
     int temp = pop(stack, stkptr);
