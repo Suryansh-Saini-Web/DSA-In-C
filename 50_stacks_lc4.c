@@ -28,7 +28,7 @@ void print(int stack[], int stkptr){
 
 void insert(int stack[], int *stkptr, int num){
     if(*stkptr == 0){
-        stack[(*stkptr)++] = num;
+        push(stack, stkptr, num);
         return;
     }
     int temp = pop(stack, stkptr);
