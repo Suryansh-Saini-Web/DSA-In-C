@@ -1,4 +1,4 @@
-// ---------------Leet Code problem - Reverse Stack using Recursion.--------------------
+// ---------------Leet Code problem - Sort Stack.--------------------
 
 #include<stdio.h>
 
