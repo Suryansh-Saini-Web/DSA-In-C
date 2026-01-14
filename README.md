@@ -38,3 +38,7 @@
 38. 38_reverse_recursion.c -- Learnt how to reverse linkedlist using recursion.
 39. 39_linkedlist_lc1.c -- Solved leet code problem 24 - Swap Nodes in pairs.
 40. 40_linkedlist_lc2.c -- Solved leet code problem - Reverse List in K Groups.
+41. 41_linkedlist_lc3.c -- Solved leet code problem - Find whether a linked list is cyclic or not.
+42. 42_linkedlist_lc4.c -- Solved leet code problem - 876 (Middle of the linked list).
+43. 43_linkedlist_lc5.c -- Solved leet code problem - Detect and remove loop in linked list.
+44. 44_linkedlist_lc6.c -- Solved leet code problem - Remove duplicates from sorted linked list.
