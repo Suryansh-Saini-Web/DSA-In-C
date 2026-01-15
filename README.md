@@ -42,3 +42,15 @@
 42. 42_linkedlist_lc4.c -- Solved leet code problem - 876 (Middle of the linked list).
 43. 43_linkedlist_lc5.c -- Solved leet code problem - Detect and remove loop in linked list.
 44. 44_linkedlist_lc6.c -- Solved leet code problem - Remove duplicates from sorted linked list.
+45. 45_array_stack.c -- Learnt how to create stack data structure using arrays.
+46. 46_linkedlist_stack.c -- Learnt how to create stack data structure using linkedlist.
+47. 47_stacks_lc1.c -- Solved leet code problem - Two Stacks.
+48. 48_stacks_lc2.c -- Solved leet code problem - Reverse String.
+49. 49_stacks_lc3.c -- Solved leet code problem - Valid Parantheses.
+50. 50_stacks_lc4.c -- Solved leet code problem - Insert element at bottom.
+51. 51_stacks_lc5.c -- Solved leet code problem - Reverse Stack using Recursion.
+52. 52_stacks_lc6.c -- Solved leet code problem - Sort Stack.
+53. 53_stacks_lc7.c -- Solved leet code problem - Redundant Brackets.
+54. 54_stacks_lc8.c -- Solved leet code problem - The Celebrity problem.
+55. 55_stacks_lc9.c -- Solved leet code problem - Minimum Value O(n).
+56. 56_stacks_lc10.c -- Solved leet code problem - Minimum Value O(1).
