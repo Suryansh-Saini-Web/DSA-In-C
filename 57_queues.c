@@ -24,16 +24,28 @@ int dequeue(int queue[], int *count, int *front){
     return num;
 }
 
-int peek(){
-
+int peek(int queue[], int count, int front){
+    if(count == 0){
+        return -1;
+    }else{
+        return queue[front];
+    }
 }
 
-int isEmpty(){
-
+int isEmpty(int count){
+    if(count <= 0){
+        return 1;
+    }else{
+        return -1;
+    }
 }
 
-int isFull(){
-
+int isFull(int count){
+    if(count >= 10){
+        return 1;
+    }else{
+        return -1;
+    }
 }
 
 void prt(int queue[], int count, int front){
