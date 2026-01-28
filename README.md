@@ -58,3 +58,7 @@
 58. 58_reverse_queue.c -- Learnt how to reverse Queue using Recursion.
 59. 59_queue_using_stacks.c -- Learnt how to make Queue using stacks.
 60. 60_priority_queue.c -- Learnt how to make priority queue.
+61. 61_doubly_ended_queue.c -- Learnt how to design Doubly Ended Queue.
+62. 62_queue_lc1.c -- Solved Leet code problem - First negative integer in every window of size K.
+63. 63_queue_lc1.c -- Solved Leet code problem - Reverse First K elements of Queue.
+64. 64_queue_lc1.c -- Solved Leet code problem - Interleave the first half of the queue with the second half.
