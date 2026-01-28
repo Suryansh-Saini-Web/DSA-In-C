@@ -54,3 +54,7 @@
 54. 54_stacks_lc8.c -- Solved leet code problem - The Celebrity problem.
 55. 55_stacks_lc9.c -- Solved leet code problem - Minimum Value O(n).
 56. 56_stacks_lc10.c -- Solved leet code problem - Minimum Value O(1).
+57. 57_Queues.c -- Learnt how to create Queue data structure.
+58. 58_reverse_queue.c -- Learnt how to reverse Queue using Recursion.
+59. 59_queue_using_stacks.c -- Learnt how to make Queue using stacks.
+60. 60_priority_queue.c -- Learnt how to make priority queue.
