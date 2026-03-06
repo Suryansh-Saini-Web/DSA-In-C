@@ -62,3 +62,6 @@
 62. 62_queue_lc1.c -- Solved Leet code problem - First negative integer in every window of size K.
 63. 63_queue_lc1.c -- Solved Leet code problem - Reverse First K elements of Queue.
 64. 64_queue_lc1.c -- Solved Leet code problem - Interleave the first half of the queue with the second half.
+65. 65_ht_lc1.c -- Solved Leet Code hash table problem - First non repeated character in string.
+66. 66_ht_lc2.c -- Solved Leet Code problem - First repeated character in a string.
+67. 67_building_hash_map.c -- Learnt how to design my own Hash Map.
