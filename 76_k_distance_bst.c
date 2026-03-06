@@ -53,5 +53,5 @@ int main(){
     insert(&root, 16);
     insert(&root, 20);
     find(root, 3);
-    return 1;
+    return 0;
 }
