@@ -65,3 +65,13 @@
 65. 65_ht_lc1.c -- Solved Leet Code hash table problem - First non repeated character in string.
 66. 66_ht_lc2.c -- Solved Leet Code problem - First repeated character in a string.
 67. 67_building_hash_map.c -- Learnt how to design my own Hash Map.
+68. 68_building_bst.c -- Learnt how to build Binary Search Tree.
+69. 69_find_bst.c -- Learnt how to find whether an element is present in BST or not.
+70. 70_pre_order_bst.c -- Learnt about Pre-Order Traversal.
+71. 71_post_order_bst.c -- Learnt about Post-Order Traversal.
+72. 72_height_depth_bst.c -- Learnt how to find Depth and Height of BST.
+73. 73_min_val_bst.c -- Learnt how to find minimum value in BST.
+74. 74_equal_bst.c -- Learnt how to determine whether both the BST are equal or not.
+75. 75_validate_bst.c -- Learnt how to find whether the BST is valid or not.
+76. 76_k_distance_bst.c -- Learnt how to find all nodes in BST that are at K distance.
+77. 77_level_traversal_bst.c -- Learnt about Level Order Traversal.
