@@ -75,3 +75,7 @@
 75. 75_validate_bst.c -- Learnt how to find whether the BST is valid or not.
 76. 76_k_distance_bst.c -- Learnt how to find all nodes in BST that are at K distance.
 77. 77_level_traversal_bst.c -- Learnt about Level Order Traversal.
+78. 78_diameter_bst.c -- Learnt how to find Diameter of Binary Tree.
+79. 79_balanced_bst.c -- Learnt how to find whether a Binary Tree is Balanced or not.
+80. 80_sum_tree_bst.c -- Learnt how to find whether a Binary Tree is Sum Tree or not.
+81. 81_zigzag_trav_bt.c -- Learnt how to do Zig-Zag Traversal.
