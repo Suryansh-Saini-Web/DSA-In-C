@@ -79,3 +79,7 @@
 79. 79_balanced_bst.c -- Learnt how to find whether a Binary Tree is Balanced or not.
 80. 80_sum_tree_bst.c -- Learnt how to find whether a Binary Tree is Sum Tree or not.
 81. 81_zigzag_trav_bt.c -- Learnt how to do Zig-Zag Traversal.
+82. 82_bnd_trav_bst.c -- Learnt about Boundary Traversal.
+83. 83_vert_trav_bt.c -- Learnt about Vertical Traversal.
+84. 84_top_view_bt.c -- Learnt about Top View.
+85. 85_bottom_view_bt.c -- Learnt about Bottom View.
