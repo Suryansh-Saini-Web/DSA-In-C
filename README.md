@@ -83,3 +83,4 @@
 83. 83_vert_trav_bt.c -- Learnt about Vertical Traversal.
 84. 84_top_view_bt.c -- Learnt about Top View.
 85. 85_bottom_view_bt.c -- Learnt about Bottom View.
+86. 86_right_view_bt.c -- Learnt about Right View.
