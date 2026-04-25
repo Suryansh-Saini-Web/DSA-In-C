@@ -85,4 +85,6 @@
 85. 85_bottom_view_bt.c -- Learnt about Bottom View.
 86. 86_right_view_bt.c -- Learnt about Right View.
 87. 87_diag_trav_bst.c -- Learnt about Diagonal Traversal.
-88. 88_sum_bst.c -- Solved Leet Code question.
+88. 88_sum_bst.c -- Solved Leet Code question - Sum of nodes on longest path from root to leaf node.
+89. 89_bst_lc1.c -- Solved Leet code question - Least Common Ancestor of Binary Tree.
+90. 90_bst_lc2.c -- Solved Leet code question - Minimum time taken to Burn the Tree.
