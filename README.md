@@ -88,3 +88,6 @@
 88. 88_sum_bst.c -- Solved Leet Code question - Sum of nodes on longest path from root to leaf node.
 89. 89_bst_lc1.c -- Solved Leet code question - Least Common Ancestor of Binary Tree.
 90. 90_bst_lc2.c -- Solved Leet code question - Minimum time taken to Burn the Tree.
+91. 91_morris_inord_trav_bst.c -- Learnt about Morris Inorder Traversal.
+92. 92_morris_preord_trav_bst.c -- Learnt about Morris Preorder Traversal.
+93. 93_morris_postord_trav_bst.c -- Learnt about Morris Postorder Traversal.
